@@ -1,0 +1,20 @@
+:root {
+	/* --mainPrimary: #84754E */
+	/* --mainPrimary: #018dff */
+}
+
+.togleIco {
+	color: var(--mainPrimary);
+	animation: showIcon 1s;
+}
+
+@keyframes showIcon {
+	0% {
+		transform: scale(0);
+		opacity: 0;
+	}
+	100% {
+		transform: scale(1);
+		opacity: 1;
+	}
+}
