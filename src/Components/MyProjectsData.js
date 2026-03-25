@@ -63,31 +63,31 @@ export const myHomeData = {
 	name: 'Larry Clark',
 	job: 'Senior Full Stack Developer',
 	summery:
-		'Results-driven Full-Stack Developer with 4+ years of experience designing and delivering scalable web applications for European tech companies. Experienced in React, Node.js, GraphQL, and microservices, with a proven track record in remote collaboration across multiple time zones. Passionate about building performant, user-focused solutions and leading teams to success.',
+		'Results-driven Full-Stack Developer with 5+ years of experience designing and delivering scalable web applications for European tech companies. Experienced in React, Node.js, GraphQL, and microservices, with a proven track record in remote collaboration across multiple time zones. Passionate about building performant, user-focused solutions and leading teams to success.',
 };
 
 export const myPersonalInfo = [
 	{ id: 201, title: 'First Name', info: 'Larry' },
 	{ id: 202, title: 'Last Name', info: 'Clark' },
 	{ id: 203, title: 'Birthdate: ', info: '23 Oct 2000' },
-	{ id: 204, title: 'Nationality', info: 'Canada' },
+	{ id: 204, title: 'Nationality', info: 'Poland' },
 	// { id: 205, title: 'Military Service', info: ' Finshed' },
 	{ id: 206, title: 'Languages', info: 'English' },
-	// { id: 208, title: 'phone', info: '+20 111 970 6667', icon: 'phone', iconLink: 'tel:+201119706667' },
-	{ id: 207, title: 'email', info: 'larryC1023@outlook.com' },
+	// { id: 208, title: 'phone', info: '+1 302 399 2456', icon: 'phone', iconLink: 'tel:+201119706667' },
+	{ id: 207, title: 'email', info: 'larry10232000@outlook.com' },
 	{ id: 209, title: 'Freelance', info: 'Available', color: '#01ef92' },
 ];
 
 export const myContactInfo = [
-	{ id: 301, title: 'Address', icon: FaMap, info: 'Ottawa, Canada', link: '' },
+	{ id: 301, title: 'Address', icon: FaMap, info: 'Warsaw, Poland', link: '' },
 	{
 		id: 302,
 		title: 'Mail Me',
 		icon: FaEnvelopeOpen,
-		info: 'larrryC1023@outllook.com',
-		link: 'mailto:larrryC1023@outllook.com',
+		info: 'larry10232000@outlook.com',
+		link: 'mailto:larry10232000@outlook.com',
 	},
-	{ id: 303, title: 'Call Me', icon: FaPhoneAlt, info: '+20 111 970 6667', link: 'tel:+201119706667' },
+	{ id: 303, title: 'Call Me', icon: FaPhoneAlt, info: '+1 302 399 2456', link: 'tel:+201119706667' },
 ];
 
 export const mySocialContact = [
